@@ -1,0 +1,11 @@
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\bin\Debug\netcoreapp2.1\TestDeleteMe.deps.json
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\bin\Debug\netcoreapp2.1\TestDeleteMe.runtimeconfig.json
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\bin\Debug\netcoreapp2.1\TestDeleteMe.runtimeconfig.dev.json
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\bin\Debug\netcoreapp2.1\TestDeleteMe.dll
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\bin\Debug\netcoreapp2.1\TestDeleteMe.pdb
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.csprojAssemblyReference.cache
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.csproj.CoreCompileInputs.cache
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.AssemblyInfoInputs.cache
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.AssemblyInfo.cs
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.dll
+C:\data\programming\C#\ileve-projects\MLNet-Examples\TestDeleteMe\obj\Debug\netcoreapp2.1\TestDeleteMe.pdb
